@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/i2c_slave_send_receive_buffer.X.debug.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>1048576</length>
+      <used>5394</used>
+      <free>1043182</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>262144</length>
+      <used>2008</used>
+      <free>260136</free>
+    </memory>
+  </executable>
+</project>
